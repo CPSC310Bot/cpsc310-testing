@@ -1,0 +1,13 @@
+{
+  "name": "cpsc310-tester",
+  "version": "0.8.0",
+  "author": "",
+  "description": "",
+  "license": "ISC",
+  "main": "jasmine-runner.js",
+  "dependencies": {
+    "jasmine": "2.4.1",
+    "jasmine-json-test-reporter": "1.0.0-beta",
+    "request": "2.72.0"
+  }
+}
